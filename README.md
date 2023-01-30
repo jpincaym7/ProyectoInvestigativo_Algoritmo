@@ -3,18 +3,25 @@ MENÚ EN PSEINT DE EJERCICIOS DE LOGICA DE PROGRAMACIÓN
 Temas del Proyecto
 
 Ejercicios con numeros.
+
 Ejercicios con cadenas.
+
 Ejercicios con arreglos.
 
 Sub Menu
 
 arreglo submenu Numeros
+
 Arrelo submenu Cadenas
+
 Arrelo submenu Arreglos
 
 Participantes
 
 Ariana Alvarado - aalvarador8@unemi.edu.ec ©
+
 Jordy Pincay - jpincaym7@unemi.edu.ec ©
+
 Joffre Baquerizo - jbaquerizol3@unemi.edu.ec ©
+
 Frank Borja - fborjaz@unemi.edu.ec ©
