@@ -613,7 +613,7 @@ Algoritmo Proyecto
 	// cedula="0914192182"= 37   convertirANumero(subcadena(frase,pos,pos))
 	menuCadenas[7] = "  8)Presentar la suma de los digitos de una cedula"
 	// palabra="ana"
-	menuCadenas[8] = "  8)Indicar si una palabra es palindroma"
+	menuCadenas[8] = "  9)Indicar si una palabra es palindroma"
 	// cadena="hola que tal"
 	//         01234567891011
 	//caracter="qui"  resp=-1
