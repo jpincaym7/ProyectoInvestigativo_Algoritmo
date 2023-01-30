@@ -1,7 +1,7 @@
 # ProyectoInvestigativo_Algoritmo
 MENÚ EN PSEINT DE EJERCICIOS DE LOGICA DE PROGRAMACIÓN 
 
-Temas del Proyecto
+# Temas del Proyecto
 
 Ejercicios con numeros.
 
@@ -9,7 +9,7 @@ Ejercicios con cadenas.
 
 Ejercicios con arreglos.
 
-Sub Menu
+# Sub Menu
 
 arreglo submenu Numeros
 
@@ -17,7 +17,7 @@ Arrelo submenu Cadenas
 
 Arrelo submenu Arreglos
 
-Participantes
+# Participantes
 
 Ariana Alvarado - aalvarador8@unemi.edu.ec ©
 
