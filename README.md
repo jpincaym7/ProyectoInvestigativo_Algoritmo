@@ -9,13 +9,13 @@ Ejercicios con cadenas.
 
 Ejercicios con arreglos.
 
-# Sub Menu
+# SubMenú
 
-arreglo submenu Numeros
+Arreglo submenu Numeros.
 
-Arrelo submenu Cadenas
+Arrelo submenu Cadenas.
 
-Arrelo submenu Arreglos
+Arrelo submenu Arreglos.
 
 # Participantes
 
