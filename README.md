@@ -9,7 +9,7 @@ Ejercicios con cadenas.
 
 Ejercicios con arreglos.
 
-# SubMenú
+# Submenú
 
 Arreglo submenu Numeros.
 
